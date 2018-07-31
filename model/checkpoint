@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/zhoubo/ZB/tf/model/mnist_model-39001"
+all_model_checkpoint_paths: "/home/zhoubo/ZB/tf/model/mnist_model-35001"
+all_model_checkpoint_paths: "/home/zhoubo/ZB/tf/model/mnist_model-36001"
+all_model_checkpoint_paths: "/home/zhoubo/ZB/tf/model/mnist_model-37001"
+all_model_checkpoint_paths: "/home/zhoubo/ZB/tf/model/mnist_model-38001"
+all_model_checkpoint_paths: "/home/zhoubo/ZB/tf/model/mnist_model-39001"
